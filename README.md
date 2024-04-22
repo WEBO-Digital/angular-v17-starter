@@ -1,6 +1,14 @@
 # 🅰️ngular v17 Starter Template ![GitHub License](https://img.shields.io/github/license/WEBO-Digital/angular-v17-starter) ![Static Badge](https://img.shields.io/badge/-20.10.0-g?style=&logo=node.js&logoColor=white) ![Static Badge](https://img.shields.io/badge/PRs-welcome-g)
 
-Generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.0.9., this template features following technologies:
+Generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.0.9, this template features following technologies:
+
+- [Angular](https://angular.io/) - a platform and framework for building single-page client applications using HTML and TypeScript.
+- [Tailwind CSS](https://tailwindcss.com/) - a utility-first CSS framework for rapidly building custom designs.
+- [Jest](https://jestjs.io/) - a delightful JavaScript Testing Framework with a focus on simplicity.
+- [Vitest](https://vitest.dev/) - Next Generation Testing Framework.
+- [ESLint](https://eslint.org/) - a tool for identifying and reporting on patterns found in ECMAScript/JavaScript code.
+- [Prettier](https://prettier.io/) - an opinionated code formatter that supports various languages.
+- [Husky](https://typicode.github.io/husky/) - a tool that makes Git hooks easy.
 
 ## Development server 🧑‍💻
 
@@ -16,7 +24,7 @@ Run `ng build` to build the project. The build artifacts will be stored in the `
 
 ## Running unit tests 🧪
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+Run `ng test` to execute the unit tests via [Jest](https://jestjs.io/).
 
 ## Running end-to-end tests 📺
 
